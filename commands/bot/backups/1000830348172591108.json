@@ -1,0 +1,2096 @@
+{
+    "name": "ZOLDIK• ♆",
+    "region": "deprecated",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "MENTIONS",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "♆ Admin",
+                "permissions": [
+                    {
+                        "roleName": "Muet",
+                        "allow": 0,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1049600
+                    },
+                    {
+                        "roleName": "muet",
+                        "allow": 0,
+                        "deny": 1050688
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "⭐-cmd-admins",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "♆ Admin",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🔒 • Staff",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "• Createur ♆",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💎 (modo)",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⭐ • Légende de discord",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "🌊 (voc)",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "⚡",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🚷 • Accès Admin",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "• Co Createur ♆",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "antiban",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🗼 • Amis de la Haute",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "• Astral ♆",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "voice",
+                        "name": "⭐ bureau",
+                        "bitrate": 64000,
+                        "userLimit": 2,
+                        "parent": "♆ Admin",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 30409728
+                            },
+                            {
+                                "roleName": "🌊 (voc)",
+                                "allow": 0,
+                                "deny": 30409728
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "⭐ Join=BL",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "♆ Admin",
+                        "permissions": [
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "🌊 (voc)",
+                                "allow": 0,
+                                "deny": 29361152
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 30409984
+                            },
+                            {
+                                "roleName": "🚷 • Accès Admin",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "name": "⭐-chat-admin",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "♆ Admin",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🚷 ・ ADMIN 1",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "♆ Admin",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 1048576
+                            },
+                            {
+                                "roleName": "• Createur ♆",
+                                "allow": 1048576,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🔱",
+                                "allow": 1048576,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⭐ • Légende de discord",
+                                "allow": 1048576,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🚷 • Accès Admin",
+                                "allow": 3147264,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🚷 ・ ADMIN 2",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "♆ Admin",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 1048576
+                            },
+                            {
+                                "roleName": "• Createur ♆",
+                                "allow": 1048576,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "🔱",
+                                "allow": 1048576,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🚷 • Accès Admin",
+                                "allow": 3147264,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🚷 ・ ADMIN 3",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "♆ Admin",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 1048576
+                            },
+                            {
+                                "roleName": "🔱",
+                                "allow": 1048576,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🚷 • Accès Admin",
+                                "allow": 3147264,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "• Createur ♆",
+                                "allow": 1048576,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "♆ INFORMATION",
+                "permissions": [
+                    {
+                        "roleName": "Muet",
+                        "allow": 0,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "• Astral ♆",
+                        "allow": 0,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "• Createur ♆",
+                        "allow": 0,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "☄️ (admin)",
+                        "allow": 0,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "@CREATEUR",
+                        "allow": 0,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 322560
+                    },
+                    {
+                        "roleName": "💎 (modo)",
+                        "allow": 0,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "ADMIN",
+                        "allow": 0,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "muet",
+                        "allow": 0,
+                        "deny": 1050688
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "🔔・annonce",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "♆ INFORMATION",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 322560
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "PUPUTE",
+                                "allow": 0,
+                                "deny": 133120
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🎊・preuve",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "♆ INFORMATION",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 322560
+                            },
+                            {
+                                "roleName": "• Astral ♆",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "💎 (modo)",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            },
+                            {
+                                "roleName": "ADMIN",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "• Createur ♆",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "@CREATEUR",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "☄️ (admin)",
+                                "allow": 0,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔮・boost",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "♆ INFORMATION",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "• Createur ♆",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💎 (modo)",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "@CREATEUR",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "• Astral ♆",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 322560
+                            },
+                            {
+                                "roleName": "☄️ (admin)",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "ADMIN",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🎊・giveaways",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "♆ INFORMATION",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "• Astral ♆",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "• Createur ♆",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "☄️ (admin)",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "@CREATEUR",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 322560
+                            },
+                            {
+                                "roleName": "💎 (modo)",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "ADMIN",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "♆ Espace team",
+                "permissions": [
+                    {
+                        "roleName": "Muet",
+                        "allow": 0,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1024
+                    },
+                    {
+                        "roleName": "• Membre ♆",
+                        "allow": 1024,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "muet",
+                        "allow": 0,
+                        "deny": 1050688
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "🔔 Reunion",
+                        "bitrate": 64000,
+                        "userLimit": 99,
+                        "parent": "♆ Espace team",
+                        "permissions": [
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 1024,
+                                "deny": 2097152
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "name": "👑-annonce-ender",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "♆ Espace team",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 11264
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "👑⏵chat-ender",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "♆ Espace team",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 1024,
+                                "deny": 163840
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "♆ Ring",
+                "permissions": [
+                    {
+                        "roleName": "Muet",
+                        "allow": 0,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": 1024,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "muet",
+                        "allow": 0,
+                        "deny": 1050688
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "la bagarre",
+                        "bitrate": 64000,
+                        "userLimit": 99,
+                        "parent": "♆ Ring",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 3148800
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "name": "🦾・annonce-fight",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "♆ Ring",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 11264
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "♆ Textuel",
+                "permissions": [
+                    {
+                        "roleName": "• Membre ♆",
+                        "allow": 1024,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": 1024,
+                        "deny": 1499136
+                    },
+                    {
+                        "roleName": "Muet",
+                        "allow": 0,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "muet",
+                        "allow": 0,
+                        "deny": 1050688
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "🌎・chat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "♆ Textuel",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 278528,
+                                "deny": 1221632
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔗・recrutement",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "♆ Textuel",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1502208
+                            },
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🤖・cmds",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "♆ Textuel",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1500160
+                            },
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "♆ Vocaux",
+                "permissions": [
+                    {
+                        "roleName": "• Astral ♆",
+                        "allow": 1049600,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "• Membre ♆",
+                        "allow": 2097152,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "Anti-ban Sinon BL",
+                        "allow": 1049600,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "Muet",
+                        "allow": 0,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1024
+                    },
+                    {
+                        "roleName": "muet",
+                        "allow": 0,
+                        "deny": 1050688
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "EVENT",
+                        "bitrate": 96000,
+                        "userLimit": 0,
+                        "parent": "♆ Vocaux",
+                        "permissions": [
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 3147264
+                            },
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 2097152,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🔥 ・ Vocal 1",
+                        "bitrate": 96000,
+                        "userLimit": 99,
+                        "parent": "♆ Vocaux",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 2097152,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "⭐・ Vocal 2",
+                        "bitrate": 96000,
+                        "userLimit": 99,
+                        "parent": "♆ Vocaux",
+                        "permissions": [
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 2097152,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🍂・ Vocal 3",
+                        "bitrate": 64000,
+                        "userLimit": 99,
+                        "parent": "♆ Vocaux",
+                        "permissions": [
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 2097152,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🌊・Vocal 4",
+                        "bitrate": 64000,
+                        "userLimit": 99,
+                        "parent": "♆ Vocaux",
+                        "permissions": [
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🐬 ・ Vocal 5",
+                        "bitrate": 96000,
+                        "userLimit": 99,
+                        "parent": "♆ Vocaux",
+                        "permissions": [
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 2097152,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 33554432,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🔥・ Débit",
+                        "bitrate": 96000,
+                        "userLimit": 99,
+                        "parent": "♆ Vocaux",
+                        "permissions": [
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 2097152,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 35651584,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🔥・ Clash",
+                        "bitrate": 64000,
+                        "userLimit": 99,
+                        "parent": "♆ Vocaux",
+                        "permissions": [
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "Anti-ban Sinon BL",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "• Astral ♆",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 2097152,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "♆ Espace PV",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1024
+                    },
+                    {
+                        "roleName": "Muet",
+                        "allow": 0,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "• Membre ♆",
+                        "allow": 3147264,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "muet",
+                        "allow": 0,
+                        "deny": 1050688
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "🌙・ Join = BL",
+                        "bitrate": 64000,
+                        "userLimit": 2,
+                        "parent": "♆ Espace PV",
+                        "permissions": [
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 3147264,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🌟・ PV",
+                        "bitrate": 64000,
+                        "userLimit": 2,
+                        "parent": "♆ Espace PV",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 3147264,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "⚡・ PV",
+                        "bitrate": 64000,
+                        "userLimit": 6,
+                        "parent": "♆ Espace PV",
+                        "permissions": [
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 3147264,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🌙・ Join = BL",
+                        "bitrate": 64000,
+                        "userLimit": 2,
+                        "parent": "♆ Espace PV",
+                        "permissions": [
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 3147264,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🌟・ PV",
+                        "bitrate": 64000,
+                        "userLimit": 3,
+                        "parent": "♆ Espace PV",
+                        "permissions": [
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 3147264,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "⚡ ・PV",
+                        "bitrate": 64000,
+                        "userLimit": 2,
+                        "parent": "♆ Espace PV",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 3147264,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🌟・ PV",
+                        "bitrate": 64000,
+                        "userLimit": 3,
+                        "parent": "♆ Espace PV",
+                        "permissions": [
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 3147264,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "⚡ ・PV",
+                        "bitrate": 64000,
+                        "userLimit": 2,
+                        "parent": "♆ Espace PV",
+                        "permissions": [
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 3147264,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "⚡ ・PV",
+                        "bitrate": 64000,
+                        "userLimit": 4,
+                        "parent": "♆ Espace PV",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 3147264,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Caché",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1049600
+                    },
+                    {
+                        "roleName": "• Createur ♆",
+                        "allow": 1049600,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "Muet",
+                        "allow": 0,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "muet",
+                        "allow": 0,
+                        "deny": 1050688
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "Voc Staff",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "Caché",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2098176
+                            },
+                            {
+                                "roleName": "• Createur ♆",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 1048576,
+                                "deny": 31458816
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "name": "tchat-staff-2",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Caché",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "• Createur ♆",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "voice",
+                        "name": "Voc caché",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "Caché",
+                        "permissions": [
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 1048576,
+                                "deny": 31458816
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2098176
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "• Createur ♆",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "Voc caché",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "Caché",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2098176
+                            },
+                            {
+                                "roleName": "• Membre ♆",
+                                "allow": 1048576,
+                                "deny": 31458816
+                            },
+                            {
+                                "roleName": "• Createur ♆",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "Muet",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "muet",
+                                "allow": 0,
+                                "deny": 1050688
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "text",
+                "name": "📈・invitation",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 65536,
+                        "deny": 805764176
+                    },
+                    {
+                        "roleName": "Muet",
+                        "allow": 0,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "muet",
+                        "allow": 0,
+                        "deny": 1050688
+                    }
+                ],
+                "messages": [],
+                "isNews": false
+            },
+            {
+                "type": "text",
+                "name": "vérification",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@CREATEUR",
+                        "allow": 0,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "• Createur ♆",
+                        "allow": 0,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "☄️ (admin)",
+                        "allow": 0,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": 66560,
+                        "deny": 456768
+                    },
+                    {
+                        "roleName": "ADMIN",
+                        "allow": 0,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "• Astral ♆",
+                        "allow": 0,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "muet",
+                        "allow": 0,
+                        "deny": 1050688
+                    }
+                ],
+                "messages": [],
+                "isNews": false
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "ADMIN",
+            "color": "#070202",
+            "hoist": false,
+            "permissions": 104320585,
+            "mentionable": false,
+            "position": 44,
+            "isEveryone": false
+        },
+        {
+            "name": "ZOLDIK",
+            "color": "#ff0000",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": true,
+            "position": 43,
+            "isEveryone": false
+        },
+        {
+            "name": "@CREATEUR",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104140361,
+            "mentionable": false,
+            "position": 41,
+            "isEveryone": false
+        },
+        {
+            "name": "• Astral ♆",
+            "color": "#01050b",
+            "hoist": true,
+            "permissions": 104140353,
+            "mentionable": false,
+            "position": 40,
+            "isEveryone": false
+        },
+        {
+            "name": "Anti-ban Sinon BL",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 39,
+            "isEveryone": false
+        },
+        {
+            "name": "▬▬▬▬CREATEUR▬▬▬▬",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104140353,
+            "mentionable": false,
+            "position": 38,
+            "isEveryone": false
+        },
+        {
+            "name": "☄️ (admin)",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 37080585,
+            "mentionable": false,
+            "position": 37,
+            "isEveryone": false
+        },
+        {
+            "name": "• Createur ♆",
+            "color": "#ff0000",
+            "hoist": true,
+            "permissions": 499436737,
+            "mentionable": false,
+            "position": 36,
+            "isEveryone": false
+        },
+        {
+            "name": "💎 (modo)",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 1207250881,
+            "mentionable": false,
+            "position": 35,
+            "isEveryone": false
+        },
+        {
+            "name": "• Co Createur ♆",
+            "color": "#950aff",
+            "hoist": true,
+            "permissions": 104140353,
+            "mentionable": false,
+            "position": 34,
+            "isEveryone": false
+        },
+        {
+            "name": "▬▬▬▬TEAM++▬▬▬▬",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 37080577,
+            "mentionable": false,
+            "position": 33,
+            "isEveryone": false
+        },
+        {
+            "name": "• Maréchal ♆",
+            "color": "#31ff17",
+            "hoist": true,
+            "permissions": 36769281,
+            "mentionable": true,
+            "position": 32,
+            "isEveryone": false
+        },
+        {
+            "name": "• Gouvernement ♆",
+            "color": "#f55656",
+            "hoist": true,
+            "permissions": 37080577,
+            "mentionable": false,
+            "position": 31,
+            "isEveryone": false
+        },
+        {
+            "name": "• Équipe ♆",
+            "color": "#060681",
+            "hoist": true,
+            "permissions": 37080577,
+            "mentionable": false,
+            "position": 30,
+            "isEveryone": false
+        },
+        {
+            "name": "▬▬▬▬PERM+▬▬▬▬",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 37080577,
+            "mentionable": false,
+            "position": 29,
+            "isEveryone": false
+        },
+        {
+            "name": "🔱",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 502328961,
+            "mentionable": false,
+            "position": 28,
+            "isEveryone": false
+        },
+        {
+            "name": "⚜️",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 99618433,
+            "mentionable": false,
+            "position": 27,
+            "isEveryone": false
+        },
+        {
+            "name": "▬▬▬▬TEAM▬▬▬▬",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 37080577,
+            "mentionable": false,
+            "position": 26,
+            "isEveryone": false
+        },
+        {
+            "name": "• Prestige ♆",
+            "color": "#25c059",
+            "hoist": true,
+            "permissions": 37031425,
+            "mentionable": false,
+            "position": 25,
+            "isEveryone": false
+        },
+        {
+            "name": "• Colonel ♆",
+            "color": "#defc05",
+            "hoist": true,
+            "permissions": 37031425,
+            "mentionable": false,
+            "position": 24,
+            "isEveryone": false
+        },
+        {
+            "name": "• Officier ♆",
+            "color": "#ee9009",
+            "hoist": true,
+            "permissions": 37031425,
+            "mentionable": false,
+            "position": 23,
+            "isEveryone": false
+        },
+        {
+            "name": "• Lieutnant ♆",
+            "color": "#f7a9a9",
+            "hoist": true,
+            "permissions": 37031425,
+            "mentionable": false,
+            "position": 22,
+            "isEveryone": false
+        },
+        {
+            "name": "• Combatant ♆",
+            "color": "#db4300",
+            "hoist": true,
+            "permissions": 37031425,
+            "mentionable": false,
+            "position": 21,
+            "isEveryone": false
+        },
+        {
+            "name": "• Aspirant ♆",
+            "color": "#fae552",
+            "hoist": true,
+            "permissions": 37031425,
+            "mentionable": false,
+            "position": 20,
+            "isEveryone": false
+        },
+        {
+            "name": "• Membre ♆",
+            "color": "#4fadff",
+            "hoist": true,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 19,
+            "isEveryone": false
+        },
+        {
+            "name": "▬▬▬▬PERM▬▬▬▬",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 37080577,
+            "mentionable": false,
+            "position": 18,
+            "isEveryone": false
+        },
+        {
+            "name": "discord.gg/ender-x",
+            "color": "#080808",
+            "hoist": true,
+            "permissions": 37080577,
+            "mentionable": false,
+            "position": 17,
+            "isEveryone": false
+        },
+        {
+            "name": "🌊 (voc)",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 66129409,
+            "mentionable": false,
+            "position": 16,
+            "isEveryone": false
+        },
+        {
+            "name": "🚷 • Accès Admin",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 36769281,
+            "mentionable": false,
+            "position": 15,
+            "isEveryone": false
+        },
+        {
+            "name": "▬▬▬▬SPECIAL▬▬▬▬",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 37080577,
+            "mentionable": false,
+            "position": 14,
+            "isEveryone": false
+        },
+        {
+            "name": "⭐ • Légende de discord",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": 37080577,
+            "mentionable": false,
+            "position": 13,
+            "isEveryone": false
+        },
+        {
+            "name": "🗼 • Amis de la Haute",
+            "color": "#ffadad",
+            "hoist": true,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 12,
+            "isEveryone": false
+        },
+        {
+            "name": "▬▬▬▬EQUIPE▬▬▬▬",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 37079617,
+            "mentionable": false,
+            "position": 11,
+            "isEveryone": false
+        },
+        {
+            "name": "⚡",
+            "color": "#efff00",
+            "hoist": true,
+            "permissions": 37080577,
+            "mentionable": false,
+            "position": 10,
+            "isEveryone": false
+        },
+        {
+            "name": "🔒 • Staff",
+            "color": "#03a7fa",
+            "hoist": true,
+            "permissions": 238407169,
+            "mentionable": false,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": "▬▬▬▬VIP▬▬▬▬",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 37079617,
+            "mentionable": false,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "💎・Soutien",
+            "color": "#00ffff",
+            "hoist": true,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "Muet",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 6,
+            "isEveryone": false
+        },
+        {
+            "name": "PUPUTE",
+            "color": "#e91e63",
+            "hoist": true,
+            "permissions": 36769281,
+            "mentionable": true,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "antiban",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 36769281,
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "nouveau rôle",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104140353,
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "muet",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104140353,
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1658686949533,
+    "guildID": "999383414400626718",
+    "id": "1000830348172591108",
+    "iconURL": "https://cdn.discordapp.com/icons/999383414400626718/d8bdbd6444cafe3937b91ff93ba87fa0.webp"
+}
